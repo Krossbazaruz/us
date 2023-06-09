@@ -3428,7 +3428,7 @@
 /* Narrower */
 
 	#navPanel, #navButton {
-		display: none, !important;
+		display: none !important;
 	}
 
 	@media screen and (max-width: 840px) {
